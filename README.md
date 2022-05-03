@@ -1,0 +1,3 @@
+- 👋 Salut, je suis le formateur Fabio de l'ASBL Droit et Devoir.
+- 👀 Je suis intéréssé par tout ce qui touche aux nouvelles technologies et au développement.
+- 💞️ J'aime collaborer, apprendre et initier des personnes aux développements de projets innovants.
